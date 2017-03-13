@@ -1,6 +1,9 @@
 SmartThings SmartApp Energy Logger for PlotWatt
 =======
 <br>
+<b>NOTE: Plotwatt will no longer accept API calls from generic meeters as of March,
+2017, so this is sort of pointless now :(</b>
+
 SmartThings SmartApp to send energy meter data (watts) to
 PlotWatt. Testing with HEMv1 but will likely work with any
 device that supports EnergyMeter capabilities with SmartThings.
